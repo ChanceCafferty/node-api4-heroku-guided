@@ -1,0 +1,20 @@
+{
+  "name": "api4-heroku-guided",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanceCafferty/node-api4-heroku-guided.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanceCafferty/node-api4-heroku-guided/issues"
+  },
+  "homepage": "https://github.com/ChanceCafferty/node-api4-heroku-guided#readme"
+}
